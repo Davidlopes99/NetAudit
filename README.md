@@ -18,3 +18,7 @@ Identificar hosts ativos, portas abertas e classificar riscos básicos de segura
 
 ```bash
 python NetAudit.py 192.168.1.1 192.168.1.20
+
+## Desenvolvedores
+- David Lopes
+- Lucas Levy
